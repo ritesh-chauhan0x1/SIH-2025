@@ -10,4 +10,4 @@ INRChain is a stablecoin and blockchain ecosystem designed to simplify global tr
 - UPI integration for global, instant, and free payments
 - Stablecoin: 1 INRChain = 1 INR
 - Designed to simplify global trade and remittance
-- Aims to be a major competitor to USDT
+- Aims to be a major competitor to USDT .
